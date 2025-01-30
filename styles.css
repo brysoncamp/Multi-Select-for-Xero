@@ -1,0 +1,23 @@
+.no-select {
+    user-select: none;
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Safari and Chrome */
+    -ms-user-select: none; /* IE10+ and Edge */
+}
+
+.de-highlighted-cell {
+    outline: 1px solid #0190c4;
+    background-color: #f6f6f6;
+}
+
+.de-selected-cell {
+    outline: 1px solid #0190c4;
+}
+
+.x-grid3-col-colDescription {
+    min-height: 20px;
+}
+
+.x-grid3-cell-inner {
+    min-height: 16px; /* 16px */
+}
