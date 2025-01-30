@@ -1,4 +1,4 @@
-# Xero Multi-Select (Chrome Extension)
+# Multi-Select for Xero (Chrome Extension)
 
 ### Quickly Create & Edit Bills In Xero
 
